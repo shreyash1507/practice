@@ -64,7 +64,7 @@ def gameplay():
     
     replay=  input('\nWant to play again? y/n ')
     if replay == 'y':
-        tries = 9
+       
         gameplay()
     else:
         exit
